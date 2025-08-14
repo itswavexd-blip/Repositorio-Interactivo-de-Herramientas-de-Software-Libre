@@ -29,17 +29,6 @@ Este repositorio reúne **12 herramientas de software libre** relevantes, organi
   - [PseInt](docs/Educación_y_Aprendizaje/PseInt.md)
   - [Chamilo](docs/Educación_y_Aprendizaje/Chamilo.md)
 
----
-
-## Cómo publicar en GitHub Pages (opción rápida, sin Actions)
-
-1. Crea un repositorio en GitHub y sube todo este proyecto.
-2. En **Settings → Pages**, establece:
-   - **Source:** `Deploy from a branch`
-   - **Branch:** `main` y **Folder:** `/docs`
-3. Guarda los cambios. Tu sitio estará disponible en la URL de Pages del repo.
-
-> Alternativa: puedes servir `docs/` en un servidor propio (Nginx/Apache) como sitio estático.
 
 ---
 
